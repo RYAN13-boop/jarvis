@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "JARVIS",
+  "productName": "ZENITH",
   "version": "2.0.0",
   "identifier": "com.jarvis.app",
   "build": {
@@ -13,7 +13,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "J.A.R.V.I.S",
+        "title": "ZENITH",
         "width": 1100,
         "height": 720,
         "minWidth": 800,
