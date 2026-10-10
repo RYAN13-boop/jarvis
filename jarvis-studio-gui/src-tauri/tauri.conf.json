@@ -37,7 +37,7 @@
       },
       {
         "label": "browser-panel",
-        "title": "JARVIS",
+        "title": "ZENITH",
         "width": 400,
         "height": 800,
         "decorations": false,
@@ -51,7 +51,7 @@
       },
       {
         "label": "control-overlay",
-        "title": "JARVIS",
+        "title": "ZENITH",
         "width": 580,
         "height": 132,
         "decorations": false,
